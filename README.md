@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @woodleyking
+- I'm from Australia
+- I am planning to learn to code
+- Goodbye
